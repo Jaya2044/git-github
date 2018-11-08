@@ -1,3 +1,3 @@
 # git-github
 lerning the github
-Hello good morming to everyone
+Hello good morning to everyone
